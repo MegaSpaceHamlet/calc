@@ -1,0 +1,12 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "Calculator REPL for accumulation",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "node main"
+  },
+  "author": "Mendel Groner",
+  "license": "ISC"
+}
